@@ -1,0 +1,54 @@
+[
+    {
+        "id":"1",
+        "titulo":"Marketing Designer",
+        "entidad":"Whimsical",
+        "tiempo":"6d",
+        "icono":"icon-1.jpg",
+        "enlace":"enlace1.com",
+        "sub_info":["Europa","Unided Kingdom","Unided States","Canada"],
+        "tags":["Desing","Marketing"],
+        "verificado":true,
+        "globo":false,
+        "trabajo-estado":"default"
+    },
+    {   "id":"2",
+        "titulo":"PHP Developer",
+        "entidad":"Transax",
+        "tiempo":"22d",
+        "icono":"icon-2.jpg",
+        "enlace":"enlace2.com",
+        "sub_info":["Worldwide","50k-$120k"],
+        "tags":["Engineer","Developer","Full Stack"],
+        "verificado":false,
+        "globo":false,
+        "trabajo-estado":"default"
+    },
+    {
+        "id":"3",
+        "titulo":"Site Reliability Engineer",
+        "entidad":"Sticker Mule",
+        "tiempo":"4h",
+        "icono":"icon-3.jpg",
+        "enlace":"enlace3.com",
+        "sub_info":["Worldwide","140k-$150k"],
+        "tags":["Engineer","JavaScript","Golang"],
+        "verificado":false,
+        "globo":true,
+        "trabajo-estado":"new"
+    },
+    {
+        "id":"4",
+        "titulo":"Software Engineer",
+        "entidad":"Sticker Mule",
+        "tiempo":"4h",
+        "icono":"icon-4.jpg",
+        "enlace":"enlace3.com",
+        "sub_info":["Worldwide","140k-$150k"],
+        "tags":["Developer","JavaScript","React"],
+        "verificado":false,
+        "globo":true,
+        "trabajo-estado":"new"
+    }
+    
+]
